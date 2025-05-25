@@ -1,0 +1,15 @@
+lambda
+
+lambda_yahoofinance
+lambda_coinmarketcap
+lambda_openexchangerates
+
+
+
+Role
+
+lambda_role_yahoofinance
+
+lambda_role_coinmarketcap
+
+lambda_role_openexchangerates
